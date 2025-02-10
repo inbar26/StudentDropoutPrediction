@@ -1,7 +1,7 @@
 import sys
 from PyQt6.QtCore import Qt, QSettings
 from PyQt6.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLabel, QPushButton, QListWidget, QStackedWidget, QCheckBox, QComboBox
-from PyQt6.QtGui import QFont, QTranslator
+from PyQt6.QtGui import QFont
 
 class Dashboard(QWidget):
     def __init__(self):
