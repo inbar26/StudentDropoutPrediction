@@ -8,7 +8,7 @@ class Dashboard(QWidget):
         super().__init__()
         self.settings = QSettings("MyApp", "Dashboard")  # Persist settings
         self.dark_mode_enabled = self.settings.value("dark_mode", False, type=bool)
-        
+        x = 5
         # Load custom font
         self.font_id = QFontDatabase.addApplicationFont("Atkinson-Hyperlegible-Mono.ttf")
         self.font_family = QFontDatabase.applicationFontFamilies(self.font_id)[0] if self.font_id != -1 else "Arial"
