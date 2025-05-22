@@ -88,3 +88,8 @@ Once all prerequisites are in place, follow these steps:
 ## 📓 Jupyter Notebook
 A Jupyter notebook (final_project_bigdata.ipynb) is included in this project. It contains initial data exploration, feature engineering, and model prototyping for student dropout prediction using PySpark and logistic regression.
 
+## 👩‍💻 Developers
+- [Roy Rubin](https://www.linkedin.com/in/roy-rubin/)
+- [Inbar Zafar](https://www.linkedin.com/in/inbarzafar/)
+
+
